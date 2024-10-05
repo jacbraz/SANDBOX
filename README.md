@@ -1,2 +1,2 @@
 # SANDBOX
-Repository for experimental code
+Experimental code repository
